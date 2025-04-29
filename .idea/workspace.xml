@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="First Commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Second Commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/61b83c23-a1ef-4532-86fa-ff7eb9de0583.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/61b83c23-a1ef-4532-86fa-ff7eb9de0583.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -82,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745940792207</updated>
-      <workItem from="1745940793249" duration="1813000" />
+      <workItem from="1745940793249" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <option name="closed" value="true" />
@@ -92,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745941643373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit.">
+      <option name="closed" value="true" />
+      <created>1745943012676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745943012676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +109,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit." />
+    <MESSAGE value="Second Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataScienceAPIs$test.coverage" NAME="test Coverage Results" MODIFIED="1745942612093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>

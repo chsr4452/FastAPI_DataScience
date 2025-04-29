@@ -61,3 +61,4 @@ class TeamPlayer(Base):
     player_id = Column(Integer, ForeignKey("player.player_id"), primary_key = True, index = True)
     last_changed_date = Column(Date, nullable = False)
 
+"""End """
