@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataScienceAPIs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="First Commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/include/site/python3.13/greenlet/greenlet.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/models.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -41,12 +42,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/saki_/PycharmProjects/DataScienceAPIs/.venv",
+    "last_opened_file_path": "C:/Users/saki_/PycharmProjects/DataScienceAPIs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -57,6 +59,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saki_\PycharmProjects\DataScienceAPIs" />
+      <recent name="C:\Users\saki_\PycharmProjects\DataScienceAPIs\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saki_\PycharmProjects\DataScienceAPIs" />
       <recent name="C:\Users\saki_\PycharmProjects\DataScienceAPIs\.venv" />
     </key>
   </component>
@@ -75,11 +82,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745940792207</updated>
-      <workItem from="1745940793249" duration="498000" />
+      <workItem from="1745940793249" duration="1813000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit.">
+      <option name="closed" value="true" />
+      <created>1745941643373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745941643373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit." />
   </component>
 </project>
