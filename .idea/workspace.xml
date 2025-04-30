@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Add pydantic validation.">
+    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Add main.py;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_CRUD.py.executor": "Run",
+    "Python tests.Python tests in test_main.py.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -99,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745940792207</updated>
       <workItem from="1745940793249" duration="7236000" />
-      <workItem from="1745987858201" duration="11274000" />
+      <workItem from="1745987858201" duration="13187000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <option name="closed" value="true" />
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746001427202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add main.py;">
+      <option name="closed" value="true" />
+      <created>1746020091532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746020091532</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +164,12 @@
     <MESSAGE value="Second Commit." />
     <MESSAGE value="Add TestFile.py." />
     <MESSAGE value="Add pydantic validation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pydantic validation." />
+    <MESSAGE value="Add main.py;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add main.py;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DataScienceAPIs$.coverage" NAME=" Coverage Results" MODIFIED="1745948434256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceAPIs$.coverage" NAME=" Coverage Results" MODIFIED="1746021927638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceAPIs$main.coverage" NAME="main Coverage Results" MODIFIED="1746021087041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataScienceAPIs$test.coverage" NAME="test Coverage Results" MODIFIED="1745942612093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
