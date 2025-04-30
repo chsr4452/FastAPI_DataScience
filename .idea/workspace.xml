@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Add TestFile.py.">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_CRUD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/61b83c23-a1ef-4532-86fa-ff7eb9de0583.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/61b83c23-a1ef-4532-86fa-ff7eb9de0583.xml" afterDir="false" />
+    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Add pydantic validation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CRUD.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chsr4452"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chsr4452/FastAPI_DataScience.git",
+    "accountId": "ae0da99c-433c-451b-b6f4-4489cae27bc2"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/include/site/python3.13/greenlet/greenlet.h" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/.venv/test.py" root0="SKIP_INSPECTION" />
@@ -91,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745940792207</updated>
       <workItem from="1745940793249" duration="7236000" />
-      <workItem from="1745987858201" duration="4726000" />
+      <workItem from="1745987858201" duration="11274000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <option name="closed" value="true" />
@@ -117,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745943296337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add pydantic validation.">
+      <option name="closed" value="true" />
+      <created>1746001427202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746001427202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +154,8 @@
     <MESSAGE value="First Commit." />
     <MESSAGE value="Second Commit." />
     <MESSAGE value="Add TestFile.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add TestFile.py." />
+    <MESSAGE value="Add pydantic validation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pydantic validation." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataScienceAPIs$.coverage" NAME=" Coverage Results" MODIFIED="1745948434256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

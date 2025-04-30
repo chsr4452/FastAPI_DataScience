@@ -43,7 +43,7 @@ def get_leagues(db:Session, skip:int = 0, limit:int = 100,
         query = query.filter(models.League.league_name.like(f'%{league_name}%'))
     return query.offset(skip).limit(limit).all()
 
-def get_team(db:Session, skip:int = 0, limit:int = 100,
+def get_teams(db:Session, skip:int = 0, limit:int = 100,
              min_last_changed_date: date  = None,
              team_name: str = None,
              league_id: int = None,):
