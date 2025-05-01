@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Add test_main.py;">
+    <list default="true" id="abb7a01e-1f97-4024-b601-6d20c826d55c" name="Changes" comment="Update FastAPI app setup and workspace configuration&#10;&#10;Added description, title, and version details to the FastAPI instance for improved API documentation. Introduced a new test endpoint (`/v0/test/`) to validate the API. Included minor updates to IDEA workspace metadata for task tracking and file changes.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -101,7 +102,7 @@
       <updated>1745940792207</updated>
       <workItem from="1745940793249" duration="7236000" />
       <workItem from="1745987858201" duration="16357000" />
-      <workItem from="1746086195141" duration="8642000" />
+      <workItem from="1746086195141" duration="13606000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <option name="closed" value="true" />
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746022326667</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update FastAPI app setup and workspace configuration&#10;&#10;Added description, title, and version details to the FastAPI instance for improved API documentation. Introduced a new test endpoint (`/v0/test/`) to validate the API. Included minor updates to IDEA workspace metadata for task tracking and file changes.">
+      <option name="closed" value="true" />
+      <created>1746101141580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746101141580</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +184,8 @@
     <MESSAGE value="Add pydantic validation." />
     <MESSAGE value="Add main.py;" />
     <MESSAGE value="Add test_main.py;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test_main.py;" />
+    <MESSAGE value="Update FastAPI app setup and workspace configuration&#10;&#10;Added description, title, and version details to the FastAPI instance for improved API documentation. Introduced a new test endpoint (`/v0/test/`) to validate the API. Included minor updates to IDEA workspace metadata for task tracking and file changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update FastAPI app setup and workspace configuration&#10;&#10;Added description, title, and version details to the FastAPI instance for improved API documentation. Introduced a new test endpoint (`/v0/test/`) to validate the API. Included minor updates to IDEA workspace metadata for task tracking and file changes." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataScienceAPIs$.coverage" NAME=" Coverage Results" MODIFIED="1746021955090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
